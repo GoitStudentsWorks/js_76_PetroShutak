@@ -3,9 +3,10 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
+  "homepage": "https://GoitStudentsWorks.github.io/js_76_PetroShutak",
   "scripts": {
     "start": "vite",
-    "build": "vite build --base=/devHunt-team-project-js/",
+    "build": "vite build --base=/js_76_PetroShutak/",
     "preview": "vite preview"
   },
   "devDependencies": {
